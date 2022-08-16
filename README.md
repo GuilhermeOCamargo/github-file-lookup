@@ -1,8 +1,7 @@
 # github-file-lookup
+A simple Rest API that check wheter git's repositories have an specific file.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ## Required
 
